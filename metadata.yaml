@@ -1,0 +1,34 @@
+_repo: Death-comes-for-the-archbishop_69730
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cather, Willa
+    aliases:
+    - Cather, Willa Sibert
+    - Cather, Wilella
+    - Catherová, Willa
+    - Catherova, Willa
+    birthdate: 1873
+    deathdate: 1947
+    gutenberg_agent_id: '22'
+    url: http://www.gutenberg.org/2009/agents/22
+    wikipedia: https://en.wikipedia.org/wiki/Willa_Cather
+description: ''
+gutenberg_issued: '2023-01-07'
+identifiers:
+  gutenberg: '69730'
+language: en
+pgterms:marc904: https://archive.org/details/deathcomesforarc0000will_w0o4
+pgterms:marc905: 20230104013731cather
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by The Internet
+  Archive.)
+publication_note: 'United States: A. A. Knopf,1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Death comes for the archbishop
+url: http://www.gutenberg.org/ebooks/69730
